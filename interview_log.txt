@@ -1,0 +1,10 @@
+Question: What is your biggest strength?
+Answer: I am very detail-oriented.
+AI Response: That's a great strength to have, especially when it comes to tasks that require accuracy and precision. Can you give me an example of how being detail-oriented has helped you in a previous role or project?
+
+--------------------------------------------------
+Question: What is your biggest strength?
+Answer: I am very detail-oriented.
+AI Response: That's great to hear! Being detail-oriented can help in ensuring accuracy and thoroughness in tasks. Can you share an example of how your attention to detail has positively impacted a project or task in the past?
+
+--------------------------------------------------

@@ -1,0 +1,5 @@
+[
+    {"id": 1, "category": "skill", "question": "あなたが得意とするスキルは何ですか？"},
+    {"id": 2, "category": "motivation", "question": "この職種を志望した理由を教えてください。"}
+  ]
+  
